@@ -1,3 +1,4 @@
 pymongo
 sendgrid
 dotenv
+google-cloud-storage
